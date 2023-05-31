@@ -26,6 +26,6 @@ Pour jouer au jeu en local, NodeJS est requis.
 
 `npm run start` pour lancer le jeu.
 
-[localhost:8080](http://localhost:8080) pour accéder au jeu
+[localhost:8080](http://localhost:8080) pour accéder au jeu.
 
 Au cas où le port est déjà pris, changer le port dans le fichier `package.json` ligne 7 ainsi que dans le fichier `webpack.config.js` ligne 17.
