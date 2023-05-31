@@ -8,7 +8,7 @@ Lucas PUISSANT--GARAMBOIS*
 
 La vidéo YouTube du jeu complet : https://www.youtube.com/watch?v=a0LxhTEhib8
 
-Lien permettant de jouer au jeu : http://traveler.lunitra.com/
+Lien permettant de jouer au jeu : http://traveler.lunitra.com:8080/
 
 -------------------------------------------------------------------
 
